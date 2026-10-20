@@ -3,7 +3,7 @@
 
 def add(a, b):
     """Return the sum of a and b."""
-    return a - b  # deliberate bug: Twin's agent should fix this
+    return a + b
 
 
 def multiply(a, b):
